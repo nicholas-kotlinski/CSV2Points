@@ -5,5 +5,3 @@
 The app was used by Field Museum staff and project partners in Colombia and Peru to select overflight points during the planning process of a Rapid Inventory in the Bajo Putumayo basin. 
 
 [View the app](https://nicholas-kotlinski.shinyapps.io/pupuna/)
-
-![CSV Thumbnail](https://lh6.googleusercontent.com/H8vjjtZUmc8435lK5ws_IAZKReskZan0cQnUSLeABmkNpBEdnR8urucYUPVFYCJpCrMovklPVd2UMwjvRumLnaF7psa3PiValAtci1R5BPE0NGgjd1Y=w1280)
